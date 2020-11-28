@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/woody/.local/share/virtualenvs/ronacorona-dashboard-kVxomb-2/bin/python",
+    "python.formatting.provider": "black"
+}
