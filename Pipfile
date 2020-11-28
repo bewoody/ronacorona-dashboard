@@ -11,6 +11,7 @@ black = "*"
 pandas = "*"
 dash = "==1.17.0"
 jupyterlab = "*"
+jupyterthemes = "*"
 
 [requires]
 python_version = "3.7"
